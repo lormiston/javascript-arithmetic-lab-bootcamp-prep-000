@@ -34,5 +34,5 @@ function parseFloat(a){
 }
 
 function preserveDecimal(a){
-  return preserveDecimal(a)
+  return preserveDecimal(a, 10)
 }
