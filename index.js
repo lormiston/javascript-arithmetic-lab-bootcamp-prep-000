@@ -1,27 +1,27 @@
-add(){
+function add() {
   return a += b
 }
 
-subtract(){
+function subtract() {
   return a -= b
 } 
 
-multiply(){
+function multiply() {
   return a *= b
 } 
 
-divide(){
+function divide() {
  return a /= b
 }
 
-inc(){
+function inc(){
   return n++
 }
 
-dec(){
+function dec(){
   return n--
 }
 
-makeInt(){
+function makeInt(){
   return parseInt(n)
 }
