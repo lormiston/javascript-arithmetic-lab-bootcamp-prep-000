@@ -7,9 +7,9 @@ subtract(){
 } 
 
 multiply(){
-  a 
+  a *= b
 } 
 
 divide(){
-  
+  a /= b
 }
