@@ -1,4 +1,4 @@
-var parseInt(a, b)
+var = parseInt(a, b)
 
 function add() {
   return a += b
