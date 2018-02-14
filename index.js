@@ -3,11 +3,11 @@ add(){
 }
 
 subtract(){
-  
+  a -= b
 } 
 
 multiply(){
-  
+  a 
 } 
 
 divide(){
