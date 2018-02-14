@@ -17,14 +17,14 @@ function divide(a, b) {
  return a /= b
 }
 
-function inc(a, b){
+function inc(n){
   return n++
 }
 
-function dec(a, b){
+function dec(n){
   return n--
 }
 
-function makeInt(){
+function makeInt(n){
   return parseInt(n)
 }
