@@ -1,5 +1,5 @@
 add(){
-  
+  a += b
 }
 
 subtract(){
