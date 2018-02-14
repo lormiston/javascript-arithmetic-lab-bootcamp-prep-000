@@ -1,32 +1,26 @@
 var a, b
 
-function add() {
-  parseInt(a, b)
+function add(a, b) {
   return a += b
 }
 
-function subtract() {
-  parseInt(a, b)
+function subtract(a, b) {
   return a -= b
 } 
 
-function multiply() {
-  parseInt(a, b)
+function multiply(a, b) {
   return a *= b
 } 
 
-function divide() {
- parseInt(a, b)
+function divide(a, b) {
  return a /= b
 }
 
-function inc(){
-  parseInt(a, b)
+function inc(a, b){
   return n++
 }
 
-function dec(){
-  parseInt(a, b)
+function dec(a, b){
   return n--
 }
 
