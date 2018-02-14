@@ -13,3 +13,7 @@ multiply(){
 divide(){
   a /= b
 }
+
+inc(){
+  n++
+}
