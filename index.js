@@ -17,3 +17,11 @@ divide(){
 inc(){
   n++
 }
+
+dec(){
+  n--
+}
+
+makeInt(){
+  parseInt(n)
+}
